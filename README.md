@@ -12,7 +12,7 @@ My first repository
 - [ADDITIONAL DOCUMENTATION](#Additional-Documentation)
 - [VERSIONING](#Versioning)
 
-### Project Title
+## Project Title
 ***Hello World Sample***
 
 ## Description
@@ -20,6 +20,13 @@ My first repository
 Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
 
 ## How To Run Program
+
+Hello_World/
+└── 
+    │── README.md
+    │── pgmname1.R
+    │── filename1.csv
+    │── examples.html
 
 ## Files Used
 
