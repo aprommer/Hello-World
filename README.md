@@ -17,10 +17,23 @@ My first repository
 
 ## Description
 
+Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
+
 ## How To Run Program
 
 ## Files Used
 
+- Did you use any datafiles?
+- List filenames
+- Where you got them
+- What is contained within the data files?
+- Datafile considerations
+- URL links to files
+
 ## Additional Documentation
 
+No additional documentation at this time. Here is some **BOLD** text
+
 ## Versioning
+
+Discuss any versioning used especially if you are making major changes throughout the process of your code.
